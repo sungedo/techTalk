@@ -4,7 +4,7 @@ function Topics() {
     return (
     <div>
         <p>
-            Topics Component Rendered
+            Topics Component  Rendered
         </p>
     </div>
     )
